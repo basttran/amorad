@@ -1,0 +1,12 @@
+name: amorad
+title: amorad
+username:
+account: basttran
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 213792
+bundleId: 977814
+url: https://basttran.shinyapps.io/amorad/
+when: 1505193604.49914
+asMultiple: FALSE
+asStatic: FALSE

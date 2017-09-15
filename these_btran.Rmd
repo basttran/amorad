@@ -1,0 +1,143 @@
+---
+title: "Supporting multiple perspectives with folksonomies"
+author: "Bastien Tran"
+date: "10 octobre 2016"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Context
+
+- Collective decison-making over wicked/ill-structured problems
+- Emergent behaviours within the web 2.0
+- Opportunities in knowledge management and shared visualizations
+
+
+## A simple model of decision making
+
+The __IMC__ model from Simon, 1960 counts the three following processes as the steps of decision-making:
+  
+1. Intelligence (problem framing and significant factors)
+2. Modelling (identification and evaluation of alternatives)
+3. Choice (comparison of alternatives and choice)
+  
+While such analytical breakdown is still commonly used it has indeed been argued that:
+  
+- Decisions don't always follow an incremental logic (Mintzberg and Westley, 2001)
+- Unstructured decisional processes do occur (Mintzberg et al., 1976; Padgett, 1980; Pinfield, 1986; Starbuck, 1983)
+- The decision-making process can be regarded as a cycle (McKenna and Martin-Smith, 2005) or as a set of interconnected decisions (Langley et al., 1995).
+
+## More complex decision-making models
+
+Environmental decision-making is cyclic and interconnected "by nature". 
+  
+- The environment evolves: former intel, models and choices may require revisions.
+- Decisions may involve several scales/areas/domains/populations thus impacting different scales/areas/populations.
+- Participatory approaches.
+
+
+## Collaborative design
+
+Design is a decision-making process <-> decision-making is a design process.
+  
+  
+Some collaborative design situations (concurrent engineering, open source software development) share some issues with environmental decision-making:
+
+- The context (security, practices, knowledge) is always evolving.
+- Local and global decisions may impact each other.
+
+## Best practice vs. Reality
+
+In engineering and software development: tools and efforts for tracking changes and maintain reproducibility. 
+
+In environmental decision-making:
+
+- Once out of the laboratory reproducibility is the issue (meta-analysis)
+- What kind of changes need to be tracked when "building a decision"?
+- How are decisions derived from previous decisions?
+- How to support multiple perspectives?
+
+## Knowledge management
+
+Knowledge used to be essentially managed by central authorities (librarian, scholars).
+
+- Such authorities typically produce ontologies.
+
+ICTs now provide many opportunities for "anyone" to contribute by creating/sharing ressources and indexing/cataloging said ressources.
+
+- Folksonomies make possible the creation/sharing and merging of individual knowledge organization schemes.
+
+## Folksonomies
+
+_a minima_ a set of triplets of the form (U = user, R = resource, T = tag)
+
+- Allows a given resource to exist within several organization schemes (one per user for instance).
+
+- Useful (enough) for resource navigation and retrieval.
+
+- Can be set "conversationally" (Twitter and the likes) thus also linking a fragment of discourse to a resource. 
+
+## divRS
+
+An online tool for collaborative mapping.
+
+- Provides a shared representation (map - and soon legends and themes)
+
+- Keeps track of changes at the dialogue level (chat)
+
+- "Fuzzy" indexing and navigation
+
+- A few more (necessary) features to be implemented soon...
+
+## AMORAD : the task
+
+At least 9 participants - 3 from 3 different broad domains ("bio", "geo", "eco") 
+
+- Each participant is involved in two interdisciplinary teams.
+
+- Each team has to build a map for a specific site.
+
+- Each map has at least 2 different layers: domains interactions and knowledge mapping.
+
+- Each layer can have several sub-layers...
+
+## AMORAD : the maps
+
+- One shared map per site
+
+- One layer for highlighting the interactions and stakes at the domains' interfaces. -> at least 3 different sub-layers!
+
+- One layer for mapping where we already have useful knowledge, where we will have useful knowledge (by the end of the project) -> at least 3 different sub-layers!
+
+## Outcome 
+
+An _ad hoc_ knowledge repository
+
+Folksonomy as a support for environmental decision-making?
+
+- Evolution of global/personal folksonomy and discourse through an interdisciplinary task.
+
+- Use and evolution of folksonomy through "decision-porting" tasks.
+
+## How one can help me?
+
+- Identify relevant participants
+
+- Populate the map beforehand
+
+- Relevant "marine raster(s)"
+
+- User interface
+
+
+
+
+
+
+
+
+
+
